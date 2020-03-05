@@ -5,5 +5,5 @@ This project recreates the invisible cloak shown in a Harry Potter movie, that m
 ## Note
 1. This was run and tested on Visual Studio Code
 2. In Pycharm it should run if you use virtual environment
-3. This recuires installation of OpenCV
+3. This recuires installation of opencv-python-headless
 
